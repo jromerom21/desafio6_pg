@@ -1,0 +1,156 @@
+
+
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T21:46:22.945Z ; Ruta sin credenciales
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T21:46:22.945Z ; Parametros Body :  {"email":"docente@desafiolatam.com","password":"12345"} 
+Ruta: /login ; Método: POST ; Fecha: 2024-12-22T21:46:23.187Z ; Respuesta: Password incorrecto
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:46:24.204Z ; Ruta con credenciales: Bearer undefined
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:46:24.207Z ; Ruta con credenciales: Bearer undefined
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T21:46:38.068Z ; Ruta sin credenciales
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T21:46:38.068Z ; Parametros Body :  {"email":"docente@desafiolatam.com","password":"123456"} 
+Ruta: /login ; Método: POST ; Fecha: 2024-12-22T21:46:38.284Z ; Respuesta: {"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwMzk5OCwiZXhwIjoxNzM0OTA0Mjk4fQ.kxZE9nmoKClVtfT7kBcMX0k9ch5ejtql_Y6cb5Vy5xE","email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:46:42.720Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwMzk5OCwiZXhwIjoxNzM0OTA0Mjk4fQ.kxZE9nmoKClVtfT7kBcMX0k9ch5ejtql_Y6cb5Vy5xE
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:46:42.729Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwMzk5OCwiZXhwIjoxNzM0OTA0Mjk4fQ.kxZE9nmoKClVtfT7kBcMX0k9ch5ejtql_Y6cb5Vy5xE
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:46:42.734Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:46:42.781Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:46:48.335Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwMzk5OCwiZXhwIjoxNzM0OTA0Mjk4fQ.kxZE9nmoKClVtfT7kBcMX0k9ch5ejtql_Y6cb5Vy5xE
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:46:48.339Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwMzk5OCwiZXhwIjoxNzM0OTA0Mjk4fQ.kxZE9nmoKClVtfT7kBcMX0k9ch5ejtql_Y6cb5Vy5xE
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:46:48.347Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:46:48.350Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:46:51.474Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwMzk5OCwiZXhwIjoxNzM0OTA0Mjk4fQ.kxZE9nmoKClVtfT7kBcMX0k9ch5ejtql_Y6cb5Vy5xE
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:46:51.479Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwMzk5OCwiZXhwIjoxNzM0OTA0Mjk4fQ.kxZE9nmoKClVtfT7kBcMX0k9ch5ejtql_Y6cb5Vy5xE
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:46:51.486Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:46:51.488Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta consultada: /usuarios ; Método: POST ; Fecha: 2024-12-22T21:46:59.722Z ; Ruta sin credenciales
+Ruta consultada: /usuarios ; Método: POST ; Fecha: 2024-12-22T21:46:59.722Z ; Parametros Body :  {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"} 
+Ruta: /usuarios ; Método: POST ; Fecha: 2024-12-22T21:46:59.785Z ; Respuesta: {"error":"El correo ya existe"}
+Ruta: /usuarios ; Método: POST ; Fecha: 2024-12-22T21:46:59.785Z ; Respuesta: {"error":"El correo ya existe"}
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T21:47:09.114Z ; Ruta sin credenciales
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T21:47:09.114Z ; Parametros Body :  {"email":"docente@desafiolatam.com","password":"12345"} 
+Ruta: /login ; Método: POST ; Fecha: 2024-12-22T21:47:09.182Z ; Respuesta: Password incorrecto
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:47:11.047Z ; Ruta con credenciales: Bearer undefined
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:47:11.049Z ; Ruta con credenciales: Bearer undefined
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T21:47:25.231Z ; Ruta sin credenciales
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T21:47:25.231Z ; Parametros Body :  {"email":"docente@desafiolatam.com","password":"1234"} 
+Ruta: /login ; Método: POST ; Fecha: 2024-12-22T21:47:25.339Z ; Respuesta: Password incorrecto
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:47:26.775Z ; Ruta con credenciales: Bearer undefined
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:47:26.777Z ; Ruta con credenciales: Bearer undefined
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T21:47:30.085Z ; Ruta sin credenciales
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T21:47:30.085Z ; Parametros Body :  {"email":"docente@desafiolatam.com","password":"123456"} 
+Ruta: /login ; Método: POST ; Fecha: 2024-12-22T21:47:30.152Z ; Respuesta: {"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDA1MCwiZXhwIjoxNzM0OTA0MzUwfQ.9-rpZeF5Emeh2g1xVfwSs8ipbDDKwI9RidlPPR7gtNo","email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:47:31.245Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDA1MCwiZXhwIjoxNzM0OTA0MzUwfQ.9-rpZeF5Emeh2g1xVfwSs8ipbDDKwI9RidlPPR7gtNo
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:47:31.251Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDA1MCwiZXhwIjoxNzM0OTA0MzUwfQ.9-rpZeF5Emeh2g1xVfwSs8ipbDDKwI9RidlPPR7gtNo
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:47:31.256Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:47:31.297Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:50:28.596Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDA1MCwiZXhwIjoxNzM0OTA0MzUwfQ.9-rpZeF5Emeh2g1xVfwSs8ipbDDKwI9RidlPPR7gtNo
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:50:28.600Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDA1MCwiZXhwIjoxNzM0OTA0MzUwfQ.9-rpZeF5Emeh2g1xVfwSs8ipbDDKwI9RidlPPR7gtNo
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:50:28.652Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:50:28.751Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:50:32.952Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDA1MCwiZXhwIjoxNzM0OTA0MzUwfQ.9-rpZeF5Emeh2g1xVfwSs8ipbDDKwI9RidlPPR7gtNo
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:50:32.957Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDA1MCwiZXhwIjoxNzM0OTA0MzUwfQ.9-rpZeF5Emeh2g1xVfwSs8ipbDDKwI9RidlPPR7gtNo
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:50:32.962Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:50:32.965Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:52:25.071Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDA1MCwiZXhwIjoxNzM0OTA0MzUwfQ.9-rpZeF5Emeh2g1xVfwSs8ipbDDKwI9RidlPPR7gtNo
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:52:25.076Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDA1MCwiZXhwIjoxNzM0OTA0MzUwfQ.9-rpZeF5Emeh2g1xVfwSs8ipbDDKwI9RidlPPR7gtNo
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:52:25.122Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:52:25.238Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:52:28.221Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDA1MCwiZXhwIjoxNzM0OTA0MzUwfQ.9-rpZeF5Emeh2g1xVfwSs8ipbDDKwI9RidlPPR7gtNo
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:52:28.225Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDA1MCwiZXhwIjoxNzM0OTA0MzUwfQ.9-rpZeF5Emeh2g1xVfwSs8ipbDDKwI9RidlPPR7gtNo
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:52:28.231Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:52:28.234Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:52:37.322Z ; Respuesta: {"error":"TokenExpiredError: jwt expired"}
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:52:37.320Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDA1MCwiZXhwIjoxNzM0OTA0MzUwfQ.9-rpZeF5Emeh2g1xVfwSs8ipbDDKwI9RidlPPR7gtNo
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:52:37.325Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDA1MCwiZXhwIjoxNzM0OTA0MzUwfQ.9-rpZeF5Emeh2g1xVfwSs8ipbDDKwI9RidlPPR7gtNo
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:52:37.328Z ; Respuesta: {"error":"TokenExpiredError: jwt expired"}
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T21:58:07.021Z ; Ruta sin credenciales
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T21:58:07.021Z ; Parametros Body :  {"email":"docente8@desafiolatam.com","password":"123456"} 
+Ruta: /login ; Método: POST ; Fecha: 2024-12-22T21:58:07.092Z ; Respuesta: {"error":"Correo NO Registrado"}
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T21:59:22.590Z ; Ruta sin credenciales
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T21:59:22.590Z ; Parametros Body :  {"email":"docente7@desafiolatam.com","password":"123456"} 
+Ruta: /login ; Método: POST ; Fecha: 2024-12-22T21:59:22.633Z ; Respuesta: {"error":"Correo NO Registrado"}
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T21:59:31.714Z ; Ruta sin credenciales
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T21:59:31.714Z ; Parametros Body :  {"email":"docente@desafiolatam.com","password":"123456"} 
+Ruta: /login ; Método: POST ; Fecha: 2024-12-22T21:59:31.821Z ; Respuesta: {"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDc3MSwiZXhwIjoxNzM0OTA1MDcxfQ.VcYl68fZ0UQ6ZAp4c9FInvDQMZ4Ss5owgLlhQkbZAr8","email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:59:34.936Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDc3MSwiZXhwIjoxNzM0OTA1MDcxfQ.VcYl68fZ0UQ6ZAp4c9FInvDQMZ4Ss5owgLlhQkbZAr8
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:59:34.940Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDc3MSwiZXhwIjoxNzM0OTA1MDcxfQ.VcYl68fZ0UQ6ZAp4c9FInvDQMZ4Ss5owgLlhQkbZAr8
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:59:34.944Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:59:35.098Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:59:55.011Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDc3MSwiZXhwIjoxNzM0OTA1MDcxfQ.VcYl68fZ0UQ6ZAp4c9FInvDQMZ4Ss5owgLlhQkbZAr8
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:59:55.014Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDc3MSwiZXhwIjoxNzM0OTA1MDcxfQ.VcYl68fZ0UQ6ZAp4c9FInvDQMZ4Ss5owgLlhQkbZAr8
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:59:55.055Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T21:59:55.062Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:00:01.541Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDc3MSwiZXhwIjoxNzM0OTA1MDcxfQ.VcYl68fZ0UQ6ZAp4c9FInvDQMZ4Ss5owgLlhQkbZAr8
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:00:01.544Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDc3MSwiZXhwIjoxNzM0OTA1MDcxfQ.VcYl68fZ0UQ6ZAp4c9FInvDQMZ4Ss5owgLlhQkbZAr8
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:00:01.549Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:00:01.552Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:00:03.918Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDc3MSwiZXhwIjoxNzM0OTA1MDcxfQ.VcYl68fZ0UQ6ZAp4c9FInvDQMZ4Ss5owgLlhQkbZAr8
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:00:03.921Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDc3MSwiZXhwIjoxNzM0OTA1MDcxfQ.VcYl68fZ0UQ6ZAp4c9FInvDQMZ4Ss5owgLlhQkbZAr8
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:00:03.924Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:00:03.927Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:00:05.311Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDc3MSwiZXhwIjoxNzM0OTA1MDcxfQ.VcYl68fZ0UQ6ZAp4c9FInvDQMZ4Ss5owgLlhQkbZAr8
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:00:05.315Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDc3MSwiZXhwIjoxNzM0OTA1MDcxfQ.VcYl68fZ0UQ6ZAp4c9FInvDQMZ4Ss5owgLlhQkbZAr8
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:00:05.320Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:00:05.323Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta consultada: /usuarios ; Método: POST ; Fecha: 2024-12-22T22:00:15.644Z ; Ruta sin credenciales
+Ruta consultada: /usuarios ; Método: POST ; Fecha: 2024-12-22T22:00:15.644Z ; Parametros Body :  {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"} 
+Ruta: /usuarios ; Método: POST ; Fecha: 2024-12-22T22:00:15.742Z ; Respuesta: {"error":"El correo ya existe"}
+Ruta: /usuarios ; Método: POST ; Fecha: 2024-12-22T22:00:15.743Z ; Respuesta: {"error":"El correo ya existe"}
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T22:00:26.351Z ; Ruta sin credenciales
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T22:00:26.351Z ; Parametros Body :  {"email":"docente@desafiolatam.com","password":"12345688"} 
+Ruta: /login ; Método: POST ; Fecha: 2024-12-22T22:00:26.452Z ; Respuesta: Password incorrecto
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:00:27.471Z ; Ruta con credenciales: Bearer undefined
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:00:27.478Z ; Ruta con credenciales: Bearer undefined
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T22:00:49.624Z ; Ruta sin credenciales
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T22:00:49.624Z ; Parametros Body :  {"email":"docente@desafiolatam.com","password":"123456"} 
+Ruta: /login ; Método: POST ; Fecha: 2024-12-22T22:00:49.730Z ; Respuesta: {"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDg0OSwiZXhwIjoxNzM0OTA1MTQ5fQ.xJGsFGsjmo-qTcm9MqBgJaSDfwxcGSEY77wwD972DfY","email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:00:51.543Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDg0OSwiZXhwIjoxNzM0OTA1MTQ5fQ.xJGsFGsjmo-qTcm9MqBgJaSDfwxcGSEY77wwD972DfY
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:00:51.546Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDg0OSwiZXhwIjoxNzM0OTA1MTQ5fQ.xJGsFGsjmo-qTcm9MqBgJaSDfwxcGSEY77wwD972DfY
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:00:51.551Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:00:51.595Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:01:01.291Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDg0OSwiZXhwIjoxNzM0OTA1MTQ5fQ.xJGsFGsjmo-qTcm9MqBgJaSDfwxcGSEY77wwD972DfY
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:01:01.294Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDg0OSwiZXhwIjoxNzM0OTA1MTQ5fQ.xJGsFGsjmo-qTcm9MqBgJaSDfwxcGSEY77wwD972DfY
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:01:01.299Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:01:01.301Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:01:02.721Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDg0OSwiZXhwIjoxNzM0OTA1MTQ5fQ.xJGsFGsjmo-qTcm9MqBgJaSDfwxcGSEY77wwD972DfY
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:01:02.723Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNDg0OSwiZXhwIjoxNzM0OTA1MTQ5fQ.xJGsFGsjmo-qTcm9MqBgJaSDfwxcGSEY77wwD972DfY
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:01:02.727Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:01:02.731Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T22:01:10.156Z ; Ruta sin credenciales
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T22:01:10.156Z ; Parametros Body :  {"email":"docente@desafiolatam.com","password":"123456u"} 
+Ruta: /login ; Método: POST ; Fecha: 2024-12-22T22:01:10.220Z ; Respuesta: Password incorrecto
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:01:11.469Z ; Ruta con credenciales: Bearer undefined
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:01:11.471Z ; Ruta con credenciales: Bearer undefined
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T22:07:27.831Z ; Ruta sin credenciales
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T22:07:27.831Z ; Parametros Body :  {"email":"docente@desafiolatam.com","password":"1234564"} 
+Ruta: /login ; Método: POST ; Fecha: 2024-12-22T22:07:28.077Z ; Respuesta: Password incorrecto
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:07:31.222Z ; Ruta con credenciales: Bearer undefined
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:07:31.223Z ; Respuesta: {"error":"Contraseña mal ingresada"}
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:07:31.229Z ; Respuesta: {"error":"Contraseña mal ingresada"}
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:07:31.227Z ; Ruta con credenciales: Bearer undefined
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T22:07:39.358Z ; Ruta sin credenciales
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T22:07:39.358Z ; Parametros Body :  {"email":"docente8@desafiolatam.com","password":"123456"} 
+Ruta: /login ; Método: POST ; Fecha: 2024-12-22T22:07:39.500Z ; Respuesta: {"error":"Correo NO Registrado"}
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T22:07:45.793Z ; Ruta sin credenciales
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T22:07:45.793Z ; Parametros Body :  {"email":"docente8@desafiolatam.com","password":"123456888"} 
+Ruta: /login ; Método: POST ; Fecha: 2024-12-22T22:07:45.795Z ; Respuesta: {"error":"Correo NO Registrado"}
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T22:07:50.476Z ; Ruta sin credenciales
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T22:07:50.476Z ; Parametros Body :  {"email":"docente8@desafiolatam.com","password":"123456888"} 
+Ruta: /login ; Método: POST ; Fecha: 2024-12-22T22:07:50.478Z ; Respuesta: {"error":"Correo NO Registrado"}
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T22:07:54.705Z ; Ruta sin credenciales
+Ruta consultada: /login ; Método: POST ; Fecha: 2024-12-22T22:07:54.705Z ; Parametros Body :  {"email":"docente@desafiolatam.com","password":"123456"} 
+Ruta: /login ; Método: POST ; Fecha: 2024-12-22T22:07:54.773Z ; Respuesta: {"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNTI3NCwiZXhwIjoxNzM0OTA1NTc0fQ.IUhNywNtxMf3412-C8xXgp9ICqR7R5bMY257fjpGd1E","email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:07:55.642Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNTI3NCwiZXhwIjoxNzM0OTA1NTc0fQ.IUhNywNtxMf3412-C8xXgp9ICqR7R5bMY257fjpGd1E
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:07:55.651Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNTI3NCwiZXhwIjoxNzM0OTA1NTc0fQ.IUhNywNtxMf3412-C8xXgp9ICqR7R5bMY257fjpGd1E
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:07:55.655Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:07:55.699Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:07:59.221Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNTI3NCwiZXhwIjoxNzM0OTA1NTc0fQ.IUhNywNtxMf3412-C8xXgp9ICqR7R5bMY257fjpGd1E
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:07:59.223Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNTI3NCwiZXhwIjoxNzM0OTA1NTc0fQ.IUhNywNtxMf3412-C8xXgp9ICqR7R5bMY257fjpGd1E
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:07:59.226Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:07:59.229Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:08:02.346Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNTI3NCwiZXhwIjoxNzM0OTA1NTc0fQ.IUhNywNtxMf3412-C8xXgp9ICqR7R5bMY257fjpGd1E
+Ruta consultada: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:08:02.344Z ; Ruta con credenciales: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRvY2VudGVAZGVzYWZpb2xhdGFtLmNvbSIsImlhdCI6MTczNDkwNTI3NCwiZXhwIjoxNzM0OTA1NTc0fQ.IUhNywNtxMf3412-C8xXgp9ICqR7R5bMY257fjpGd1E
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:08:02.354Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta: /usuarios ; Método: GET ; Fecha: 2024-12-22T22:08:02.357Z ; Respuesta: [{"email":"docente@desafiolatam.com","rol":"Backend Developer","lenguage":"Python"}]
+Ruta consultada: /usuarios ; Método: POST ; Fecha: 2024-12-22T22:08:12.373Z ; Ruta sin credenciales
+Ruta consultada: /usuarios ; Método: POST ; Fecha: 2024-12-22T22:08:12.373Z ; Parametros Body :  {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"} 
+Ruta: /usuarios ; Método: POST ; Fecha: 2024-12-22T22:08:12.474Z ; Respuesta: {"error":"El correo ya existe"}
+Ruta: /usuarios ; Método: POST ; Fecha: 2024-12-22T22:08:12.474Z ; Respuesta: {"error":"El correo ya existe"}
